@@ -1,0 +1,10 @@
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\bin\Debug\PanjereeExam1.exe.config
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\bin\Debug\PanjereeExam1.exe
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\bin\Debug\PanjereeExam1.pdb
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\obj\Debug\PanjereeExam1.csprojAssemblyReference.cache
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\obj\Debug\PanjereeExam1.ProofReadingForm.resources
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\obj\Debug\PanjereeExam1.Properties.Resources.resources
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\obj\Debug\PanjereeExam1.csproj.GenerateResource.cache
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\obj\Debug\PanjereeExam1.csproj.CoreCompileInputs.cache
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\obj\Debug\PanjereeExam1.exe
+C:\Users\Jafrul Hasan Taj\source\repos\PanjereeExam1\PanjereeExam1\obj\Debug\PanjereeExam1.pdb
